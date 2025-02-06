@@ -1,16 +1,33 @@
-## Hi there 👋
+¡Hola! Soy AREIVAN 👋
+Bienvenido a mi perfil de GitHub. Aquí encontrarás una variedad de proyectos en los que he trabajado, desde aplicaciones web hasta herramientas de desarrollo. Me apasiona la programación y siempre estoy buscando aprender y mejorar mis habilidades.
 
-<!--
-**AREIVAN/AREIVAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mí
+🌱 Actualmente estoy aprendiendo Python
+🔭 Actualmente estoy trabajando en el desarrollo de minisumos programados con C++ y diseñados con Fusion 360
+👯 Estoy buscando colaborar en proyectos que ayuden a mejorar la robótica y automatización
+🤔 Estoy buscando ayuda con buscar trabajo
+💬 Pregúntame sobre robótica industrial, desarrollo de PCBs con KiCad, C++, Fusion 360
+📫 Cómo contactarme: ivanangeles0311@icloud.com
+😄 Pronombres: el, eso
+⚡ Dato curioso: quiero una cyberprótesis como Cyberpunk
+Mis habilidades
+Lenguajes de programación: C++, Python
+Herramientas y tecnologías: Fusion 360, KiCad, Visual Studio Code, macOS
+Proyectos destacados
+Mini Mini
+Desarrollo de un minisumo programado con C++ y diseñado con Fusion 360.
 
-Here are some ideas to get you started:
+Tecnologías usadas: C++, Fusion 360, KiCad, Visual Studio Code, macOS
+[Enlace al repositorio](URL del repositorio)
+No Me Tientes
+Otro proyecto de minisumo programado con C++ y diseñado con Fusion 360.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologías usadas: C++, Fusion 360, KiCad, Visual Studio Code, macOS
+[Enlace al repositorio](URL del repositorio)
+Estadísticas de GitHub
+Estadísticas de GitHub
+
+Contacto
+Instagram
+Correo electrónico
+¡Gracias por visitar mi perfil!
