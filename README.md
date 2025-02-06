@@ -24,13 +24,13 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás una variedad de proyectos e
 Desarrollo de un minisumo programado con C++ y diseñado con Fusion 360.
 
 - **Tecnologías usadas**: C++, Fusion 360, KiCad, Visual Studio Code, macOS
-- [Enlace al repositorio](URL del repositorio)
+
 
 ### No Me Tientes
 Otro proyecto de minisumo programado con C++ y diseñado con Fusion 360.
 
 - **Tecnologías usadas**: C++, Fusion 360, KiCad, Visual Studio Code, macOS
-- [Enlace al repositorio](URL del repositorio)
+
 
 ## Estadísticas de GitHub
 
