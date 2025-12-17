@@ -25,9 +25,20 @@ Desarrollo de un minisumo programado con C++ y diseñado con Fusion 360.
 
 - **Tecnologías usadas**: C++, Fusion 360, KiCad, Visual Studio Code, macOS
 
+- 
+### Robot agricola
+proyecto realizado con el fin de obtener datos del campo a partir del sensado de un robot
+- **Tecnologías usadas**: Arduino, ESP32, OPENCV, HTML, JS, GITHUB, thingspeak
+
+### ADACHI BOARD
+desarrollo de placa de control de robot minisumo basada en esp32
+- **Tecnologías usadas**: ESP32, KICAD, Fusion360, Arduinoide, MacOS, C++
+
+
 
 ### No Me Tientes
 Otro proyecto de minisumo programado con C++ y diseñado con Fusion 360.
+
 
 - **Tecnologías usadas**: C++, Fusion 360, KiCad, Visual Studio Code, macOS
 
