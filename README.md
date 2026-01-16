@@ -47,7 +47,6 @@ Otro proyecto de minisumo programado con C++ y diseñado con Fusion 360.
 ![snake gif](https://github.com/AREIVAN/AREIVAN/blob/output/github-snake-dark.svg)
 
 
-https://github.com/AREIVAN/AREIVAN/blob/main/dist/github-snake-dark.svg
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AREIVAN&show_icons=true&theme=radical)
 
