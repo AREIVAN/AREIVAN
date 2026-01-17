@@ -4,11 +4,11 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás una variedad de proyectos e
 
 ## Sobre mí
 
-- 🌱 Actualmente estoy aprendiendo **Python**
+- 🌱 Actualmente estoy aprendiendo automatizacion industrial y analisis de datos 
 - 🔭 Actualmente estoy trabajando en el desarrollo de **minisumos programados con C++ y diseñados con Fusion 360**
 - 👯 Estoy buscando colaborar en **proyectos que ayuden a mejorar la robótica y automatización**
-- 🤔 Estoy buscando ayuda con **buscar trabajo**
-- 💬 Pregúntame sobre **robótica industrial, desarrollo de PCBs con KiCad, C++, Fusion 360**
+- 🤔 Estoy buscando trabajo en donde pueda demostrar mis conocimientos
+- 💬 Pregúntame sobre **robótica industrial, desarrollo de PCBs, C++, Fusion 360, python, leader, siemens **
 - 📫 Cómo contactarme: **ivanangeles0311@icloud.com**
 - 😄 Pronombres: **el, eso**
 - ⚡ Dato curioso: **quiero una cyberprótesis como Cyberpunk**
@@ -16,9 +16,13 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás una variedad de proyectos e
 ## Mis habilidades
 
 - **Lenguajes de programación**: C++, Python
-- **Herramientas y tecnologías**: Fusion 360, KiCad, Visual Studio Code, macOS
+- **Herramientas y tecnologías**: Fusion 360, KiCad, Visual Studio Code, macOS, leader, plc, fanuc, abb, tia portal 
 
 ## Proyectos destacados
+
+### Apex ride 
+Desarrollo de una aplicacion para medir los trayectos en motocicleta, visualizarlos, planearles y compartirlos con amigos
+- **Tecnologías usadas**: github, js, flutter, firebase, react, sql 
 
 ### Mini Mini
 Desarrollo de un minisumo programado con C++ y diseñado con Fusion 360.
