@@ -1,51 +1,89 @@
-# ¡Hola! Soy AREIVAN 👋
+# Hola, soy Eduardo Iván Ángeles Rodríguez 👋
 
-Bienvenido a mi perfil de GitHub. Aquí encontrarás una variedad de proyectos en los que he trabajado, desde aplicaciones web hasta herramientas de desarrollo. Me apasiona la programación y siempre estoy buscando aprender y mejorar mis habilidades. 
+Soy desarrollador enfocado en **robótica**, **sistemas embebidos**, **automatización industrial** y **desarrollo de prototipos tecnológicos**.
 
-## Sobre mí
+Me especializo en la construcción de proyectos que conectan **hardware, firmware y software**, desde robots minisumo y placas de control basadas en ESP32, hasta dashboards web para monitoreo, gestión y visualización de datos.
 
-- 🌱 Actualmente estoy aprendiendo automatizacion industrial y analisis de datos 
-- 🔭 Actualmente estoy trabajando en el desarrollo de **minisumos programados con C++ y diseñados con Fusion 360**
-- 👯 Estoy buscando colaborar en **proyectos que ayuden a mejorar la robótica y automatización**
-- 🤔 Estoy buscando trabajo en donde pueda demostrar mis conocimientos
-- 💬 Pregúntame sobre **robótica industrial, desarrollo de PCBs, C++, Fusion 360, python, leader, siemens **
-- 📫 Cómo contactarme: **ivanangeles0311@icloud.com**
-- 😄 Pronombres: **el, eso**
-- ⚡ Dato curioso: **quiero una cyberprótesis como Cyberpunk**
+## Perfil profesional
 
-## Mis habilidades
+- Desarrollo de firmware en **C++** y **Arduino**
+- Diseño de **PCBs** y sistemas electrónicos para robótica
+- Integración de microcontroladores como **ESP32** y **Arduino Nano**
+- Prototipado mecánico y electrónico con **Fusion 360** y **KiCad**
+- Desarrollo de interfaces y herramientas web para visualización de datos
+- Interés en **robótica aplicada**, **automatización industrial** y **análisis de datos**
 
-- **Lenguajes de programación**: C++, Python
-- **Herramientas y tecnologías**: Fusion 360, KiCad, Visual Studio Code, macOS, leader, plc, fanuc, abb, tia portal 
+## Tecnologías y herramientas
+
+**Lenguajes**
+- C++
+- Python
+- JavaScript
+- TypeScript
+- HTML / CSS
+
+**Hardware / Embedded**
+- ESP32
+- Arduino
+- Sensores y actuadores
+- UART / comunicación serial
+- Control de motores
+- Diseño electrónico
+
+**Herramientas**
+- KiCad
+- Fusion 360
+- Visual Studio Code
+- Git / GitHub
+- Next.js
+- React
+- Tailwind CSS
+- Supabase
 
 ## Proyectos destacados
 
-### Apex ride 
-Desarrollo de una aplicacion para medir los trayectos en motocicleta, visualizarlos, planearles y compartirlos con amigos
-- **Tecnologías usadas**: github, js, flutter, firebase, react, sql 
+### ADACHI-BOARD
+Placa de control embebida para robot minisumo basada en **ESP32-S3**, diseñada para control de motores, sensores y selección de estrategias en competencia.
 
-### Mini Mini
-Desarrollo de un minisumo programado con C++ y diseñado con Fusion 360.
+### Minisumo_codigo
+Firmware en **C++** para robot minisumo autónomo con sensores de proximidad, sensores de piso, motores DC y servomotores.
 
-- **Tecnologías usadas**: C++, Fusion 360, KiCad, Visual Studio Code, macOS
+### Robot-Agricola
+Plataforma robótica orientada al monitoreo agrícola, adquisición de datos y visualización mediante interfaz web.
 
-- 
-### Robot agricola
-proyecto realizado con el fin de obtener datos del campo a partir del sensado de un robot
-- **Tecnologías usadas**: Arduino, ESP32, OPENCV, HTML, JS, GITHUB, thingspeak
+### Torneos Dashboard
+Sistema web para la gestión de torneos de robótica, con administración de eventos, robots, estadísticas y códigos QR.
 
-### ADACHI BOARD
-desarrollo de placa de control de robot minisumo basada en esp32
-- **Tecnologías usadas**: ESP32, KICAD, Fusion360, Arduinoide, MacOS, C++
+### Apex Ride
+Prototipo web de una plataforma de rutas, telemetría y comparación de segmentos para vehículos motorizados.
 
+## En qué estoy trabajando
 
+Actualmente estoy desarrollando proyectos relacionados con:
 
-### No Me Tientes
-Otro proyecto de minisumo programado con C++ y diseñado con Fusion 360.
+- Robótica de competencia
+- Sistemas embebidos y placas de control
+- Automatización industrial
+- Visualización de datos y dashboards técnicos
 
+## Objetivo profesional
 
-- **Tecnologías usadas**: C++, Fusion 360, KiCad, Visual Studio Code, macOS
+Busco colaborar en proyectos y oportunidades donde pueda aportar experiencia en:
 
+- Robótica
+- Electrónica aplicada
+- Firmware embebido
+- Automatización
+- Desarrollo de soluciones técnicas integrales
+
+## Contacto
+
+- GitHub: [AREIVAN](https://github.com/AREIVAN)
+- Instagram: [@areivann](https://www.instagram.com/areivan03)
+
+---
+
+Gracias por visitar mi perfil.
 
 ## Estadísticas de GitHub
 <picture>
@@ -56,9 +94,4 @@ Otro proyecto de minisumo programado con C++ y diseñado con Fusion 360.
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AREIVAN&show_icons=true&theme=radical)
 
-## Contacto
 
-- [Instagram](https://instagram.com/areivann)
-- [Correo electrónico](mailto:ivanangeles0311@icloud.com)
-
-¡Gracias por visitar mi perfil!
