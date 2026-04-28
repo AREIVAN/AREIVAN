@@ -1,5 +1,7 @@
 # Hola, soy Eduardo Iván Ángeles Rodríguez 👋
 
+https://www.areivan.com/
+
 Soy desarrollador enfocado en **robótica**, **sistemas embebidos**, **automatización industrial** y **desarrollo de prototipos tecnológicos**.
 
 Me especializo en la construcción de proyectos que conectan **hardware, firmware y software**, desde robots minisumo y placas de control basadas en ESP32, hasta dashboards web para monitoreo, gestión y visualización de datos.
