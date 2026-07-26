@@ -36,10 +36,14 @@ I care about creating projects that are not only functional, but also useful as 
 ## Tech stack
 
 ### Robotics & Embedded
-`ESP32` · `Arduino` · `C++` · `Sensors` · `Motor Control` · `UART` · `PWM`
+`ESP32` · `RViz` · `C++` · `Sensors` · `Motor Control` · `ROS 2` · `SLAM`· `Gazebo`
+### Computer vision 
+· `OpenCV` · `YOLO`
 
 ### Engineering & Hardware
 `KiCad` · `Fusion 360` · `PCB Design` · `Electronics` · `Prototyping`
+### Automation 
+· `Siemens PLC` · `TIA Portal` · `HMI`
 
 ### Software & Web
 `Python` · `TypeScript` · `JavaScript` · `Next.js` · `React` · `Tailwind CSS` · `Supabase`
