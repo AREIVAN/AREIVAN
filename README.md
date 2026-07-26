@@ -24,12 +24,12 @@ I care about creating projects that are not only functional, but also useful as 
 
 ## Main focus
 
-- Robotics and autonomous systems
-- Embedded firmware with C++ / Arduino
-- ESP32-based control systems
-- PCB design for robotics applications
-- Industrial automation and technical dashboards
-- Data visualization for engineering systems
+* 🤖 Autonomous Robotics & ROS 2
+* 👁️ Computer Vision for Robotics
+* ⚙️ Industrial automation and technical dashboards
+* 🔌 Embedded Systems & Firmware
+* 🧩 Robotics Electronics & PCB Design
+* 🧩 Data visualization for engineering systems
 
 ---
 
@@ -54,7 +54,13 @@ I care about creating projects that are not only functional, but also useful as 
 ---
 
 ## Featured projects
+### 🤖 [ROS 2 Autonomous Warehouse Robot](https://github.com/AREIVAN/ROS-2-Autonomous-Warehouse-Robot)
 
+Autonomous mobile robot project designed for warehouse environments using **ROS 2**.
+
+The system explores autonomous navigation, robot visualization, simulation and the integration of the software components required to build a complete autonomous mobile robotics stack.
+
+`ROS 2` · `Gazebo` · `RViz` · `Autonomous Navigation` · `Robotics`
 ### ⚡ [ADACHI-BOARD](https://github.com/AREIVAN/ADACHI-BOARD)
 
 Custom embedded control board for Mini Sumo robotics based on **ESP32-S3**.
