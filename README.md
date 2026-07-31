@@ -1,144 +1,290 @@
-<h1 align="center">Hi, I'm Eduardo Iván Ángeles Rodríguez 👋</h1>
+<h1 align="center">Eduardo Iván Ángeles Rodríguez</h1>
+
+<h3 align="center">
+Robotics Engineer · ROS 2 · Autonomous Systems · Embedded Robotics
+</h3>
 
 <p align="center">
-  Robotics Engineering Student · Embedded Systems · Automation · Technical Prototyping
+Building robotic systems across simulation, perception, control and embedded hardware.
 </p>
 
 <p align="center">
   <a href="https://www.areivan.com/">Portfolio</a> ·
-  <a href="https://github.com/AREIVAN">GitHub</a> ·
+  <a href="https://github.com/AREIVAN">GitHub</a>
   <a href="https://www.instagram.com/areivan03">Instagram</a>
 </p>
 
 ---
 
-## About me
+## Robotics Engineer
 
-I'm an Industrial Robotics Engineering student focused on building real-world technical systems that connect **hardware, firmware, software and data visualization**.
+I am a Robotics Engineering student focused on the development of **autonomous robotic systems, ROS 2 architectures, embedded control and robotic perception**.
 
-My work combines embedded control, robotics, PCB design and web dashboards — from Mini Sumo robots and ESP32-based control boards to monitoring platforms and technical web applications.
+My work spans multiple layers of the robotics stack — from **simulation, robot modeling and autonomous navigation** to **embedded firmware, sensors, motor control and custom electronics**.
 
-I care about creating projects that are not only functional, but also useful as engineering prototypes: documented, testable, scalable and ready to evolve.
+I build engineering projects around real robotic workflows rather than isolated software demonstrations, with an emphasis on **system integration, reproducibility, modular architecture and technical documentation**.
 
----
+Current areas of specialization include:
 
-## Main focus
-
-* 🤖 Autonomous Robotics & ROS 2
-* 👁️ Computer Vision for Robotics
-* ⚙️ Industrial automation and technical dashboards
-* 🔌 Embedded Systems & Firmware
-* 🧩 Robotics Electronics & PCB Design
-* 🧩 Data visualization for engineering systems
-
----
-
-## Tech stack
-
-### Robotics & Embedded
-`ESP32` · `RViz` · `C++` · `Sensors` · `Motor Control` · `ROS 2` · `SLAM`· `Gazebo`
-### Computer vision 
-· `OpenCV` · `YOLO`
-
-### Engineering & Hardware
-`KiCad` · `Fusion 360` · `PCB Design` · `Electronics` · `Prototyping`
-### Automation 
-· `Siemens PLC` · `TIA Portal` · `HMI`
-
-### Software & Web
-`Python` · `TypeScript` · `JavaScript` · `Next.js` · `React` · `Tailwind CSS` · `Supabase`
-
-### Tools
-`Git` · `GitHub` · `Linux` · `VS Code` · `Arduino IDE` · `PlatformIO`
+- ROS 2 robotic architectures
+- Autonomous navigation and SLAM
+- Robot simulation and digital prototyping
+- Computer vision and perception
+- Embedded robotic systems
+- Reinforcement Learning for locomotion
+- Industrial automation and PLC systems
 
 ---
 
-## Featured projects
-### 🤖 [ROS 2 Autonomous Warehouse Robot](https://github.com/AREIVAN/ROS-2-Autonomous-Warehouse-Robot)
+## Core Robotics Stack
 
-Autonomous mobile robot project designed for warehouse environments using **ROS 2**.
+### Robotics & Autonomous Systems
 
-The system explores autonomous navigation, robot visualization, simulation and the integration of the software components required to build a complete autonomous mobile robotics stack.
+`ROS 2` · `Gazebo` · `RViz` · `Nav2` · `SLAM` · `TF2` · `URDF/Xacro` · `LiDAR`
 
-`ROS 2` · `Gazebo` · `RViz` · `Autonomous Navigation` · `Robotics`
-### ⚡ [ADACHI-BOARD](https://github.com/AREIVAN/ADACHI-BOARD)
+### Programming
 
-Custom embedded control board for Mini Sumo robotics based on **ESP32-S3**.
+`Python` · `C++` · `Linux` · `Git`
 
-**Focus:** PCB design, motor control, embedded architecture and competition robotics.
+### Robot Simulation
 
-`ESP32-S3` · `PCB Design` · `Motor Control` · `Embedded Systems`
+`Gazebo Harmonic` · `MuJoCo` · `RViz` · `ROS-Gazebo`
 
----
+### Computer Vision & Perception
 
-### 🤖 [Minisumo_codigo](https://github.com/AREIVAN/Minisumo_codigo)
+`OpenCV` · `YOLO` · `MediaPipe` · `Camera Systems`
 
-Embedded firmware for an autonomous Mini Sumo robot using an Arduino Nano.
+### Embedded Robotics
 
-The system integrates proximity sensors, floor sensors, DC motors, servomotors and competition-oriented decision logic.
+`ESP32` · `Arduino` · `Motor Control` · `Sensors` · `UART` · `I²C` · `SPI`
 
-`C++` · `Arduino Nano` · `Sensors` · `Autonomous Logic`
+### Electronics & Hardware
 
----
+`KiCad` · `PCB Design` · `Fusion 360` · `Electronics` · `Rapid Prototyping`
 
-### 🌾 [Robot-Agricola](https://github.com/AREIVAN/Robot-Agricola)
+### Industrial Automation
 
-Autonomous agricultural robot platform focused on data acquisition, offline-first operation and embedded web visualization.
+`Siemens PLC` · `TIA Portal` · `HMI` · `PROFINET` · `Industrial Sensors`
 
-`ESP32` · `IoT` · `Telemetry` · `HTML/CSS/JavaScript`
+### Engineering Software
 
----
-
-### 🏆 [Torneos Dashboard](https://github.com/AREIVAN/torneos-dashboard)
-
-Web platform for managing robotics tournaments, including events, robots, statistics and QR-based logistics.
-
-`Next.js` · `TypeScript` · `Supabase` · `QR Codes` · `Dashboards`
+`GitHub` · `VS Code` · `PlatformIO` · `Arduino IDE`
 
 ---
 
-### 🏍️ [Apex Ride](https://github.com/AREIVAN/apex-ride-web)
+# Featured Robotics Projects
 
-Web MVP for GPS-based route tracking, segment comparison and local leaderboards for motorized vehicles.
+## 🐕 Unitree Go2 — ROS 2 Simulation
 
-`JavaScript` · `Leaflet` · `OpenStreetMap` · `GPS` · `LocalStorage`
+[**Unitree-Go2-ROS-2-Jazzy-Gazebo-Harmonic-Simulation →**](https://github.com/AREIVAN/Unitree-Go2-ROS-2-Jazzy-Gazebo-Harmonic-Simulation)
 
----
+Simulation environment for the **Unitree Go2 quadruped** built around ROS 2 Jazzy and Gazebo Harmonic.
 
-## Currently building
+The project integrates the robot model, ROS 2 communication, simulation environment and visualization tooling into a reproducible robotics development workflow.
 
-- A physical mobile robot platform
-- Embedded control systems for robotics
-- Robotics dashboards and monitoring tools
-- Industrial automation and computer vision prototypes
-- ROS 2 learning path for autonomous navigation
+**Engineering focus**
 
----
+- ROS 2 system integration
+- Gazebo Harmonic simulation
+- Robot description and visualization
+- TF and robot state architecture
+- Reproducible launch workflow
+- Quadruped robotics development
 
-## Professional goal
-
-I'm looking to collaborate on projects where I can apply and grow my experience in:
-
-- Robotics
-- Embedded systems
-- Industrial automation
-- Electronics and PCB design
-- Technical software for real-world systems
+`ROS 2 Jazzy` · `Gazebo Harmonic` · `RViz` · `TF2` · `URDF` · `Python`
 
 ---
 
-## GitHub activity
+## 🧠 Unitree Go2 — Reinforcement Learning Locomotion
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AREIVAN/AREIVAN/main/dist/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AREIVAN/AREIVAN/main/dist/github-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/AREIVAN/AREIVAN/main/dist/github-snake.svg">
-</picture>
+[**Unitree-Go2-RL-Locomotion →**](https://github.com/AREIVAN/Unitree-Go2-RL-Locomotion)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AREIVAN&show_icons=true&theme=radical)
+Reinforcement Learning project focused on quadruped locomotion for the **Unitree Go2**.
+
+The project explores policy training and inference for robotic locomotion in simulation, including terrain interaction and command-based robot control.
+
+**Engineering focus**
+
+- Reinforcement Learning
+- Quadruped locomotion
+- Policy inference
+- Simulation environments
+- Robot control
+- Locomotion experimentation
+
+`Python` · `PyTorch` · `Reinforcement Learning` · `MuJoCo` · `Unitree Go2`
+
+---
+
+## 📦 ROS 2 Autonomous Warehouse Robot
+
+[**ROS-2-Autonomous-Warehouse-Robot →**](https://github.com/AREIVAN/ROS-2-Autonomous-Warehouse-Robot)
+
+Autonomous mobile robot architecture designed for warehouse environments using **ROS 2**.
+
+The project explores the software stack required for autonomous mobile robotics, combining robot simulation, visualization and navigation components.
+
+**Engineering focus**
+
+- Autonomous mobile robotics
+- ROS 2 architecture
+- Robot simulation
+- Navigation systems
+- Sensor integration
+- Autonomous navigation
+
+`ROS 2` · `Gazebo` · `RViz` · `Nav2` · `SLAM`
+
+---
+
+## ⚡ ADACHI — Custom Robotics Control Board
+
+[**ADACHI-BOARD →**](https://github.com/AREIVAN/ADACHI-BOARD)
+
+Custom embedded control board designed for autonomous Mini Sumo robots around the **ESP32-S3**.
+
+The board integrates the electronics required for sensing, actuation and embedded control into a dedicated robotics platform.
+
+**Engineering focus**
+
+- Embedded system architecture
+- PCB design
+- Motor control
+- Sensor integration
+- Robotics electronics
+- Hardware prototyping
+
+`ESP32-S3` · `KiCad` · `PCB Design` · `Motor Control` · `Embedded C/C++`
+
+---
+
+## 🤖 Autonomous Mini Sumo Robot
+
+[**Minisumo_codigo →**](https://github.com/AREIVAN/Minisumo_codigo)
+
+Firmware and control architecture for an autonomous competition robot.
+
+The system integrates proximity sensing, floor detection, DC motor control, servomotors and autonomous decision logic for real-time operation.
+
+**Engineering focus**
+
+- Autonomous behavior
+- Sensor fusion logic
+- Real-time embedded control
+- Motor control
+- Competition robotics
+
+`C++` · `Microcontrollers` · `Sensors` · `Motor Control` · `Embedded Systems`
+
+---
+
+## 🌾 Autonomous Agricultural Robot
+
+[**Robot-Agricola →**](https://github.com/AREIVAN/Robot-Agricola)
+
+Embedded robotic platform for environmental monitoring and telemetry in agricultural environments.
+
+The system combines onboard sensing, GPS information, local data acquisition and embedded visualization.
+
+`ESP32` · `GPS` · `Sensors` · `Telemetry` · `IoT` · `Embedded Systems`
+
+---
+
+# Engineering Areas
+
+My projects currently concentrate on four interconnected areas:
+
+### Autonomous Robotics
+
+Development of robotic systems using ROS 2, simulation environments, localization, navigation and sensor integration.
+
+### Robotic Perception
+
+Computer vision systems using cameras, OpenCV and machine-learning-based perception for robotic interaction and environmental understanding.
+
+### Embedded Robotics
+
+Design of firmware, control electronics and custom hardware for physical robotic platforms.
+
+### Robot Learning
+
+Simulation and Reinforcement Learning experiments for robotic locomotion and autonomous behavior.
+
+---
+
+# Current Development
+
+I am currently expanding my robotics portfolio around:
+
+- Autonomous navigation with **ROS 2 + Nav2 + SLAM**
+- Unitree Go2 simulation and robotic system integration
+- Reinforcement Learning for quadruped locomotion
+- Vision-based human-robot interaction
+- ROS 2 sensor and perception pipelines
+- Physical ROS 2 robotic platforms
+- Embedded control architectures for autonomous robots
+
+The objective is to connect these areas into complete systems:
+
+**Perception → Localization → Planning → Control → Actuation**
+
+---
+
+# Engineering Approach
+
+I approach robotics as a **systems integration problem**.
+
+A capable robot requires more than an isolated algorithm. It requires reliable communication between perception, planning, control, embedded hardware and physical actuators.
+
+For that reason, my projects emphasize:
+
+**Modular architectures**  
+Systems divided into reusable and testable components.
+
+**Simulation-first development**  
+Validation of robotic behavior before physical deployment.
+
+**Hardware/software integration**  
+Connecting embedded controllers, sensors and higher-level robotics software.
+
+**Reproducibility**  
+Documented environments, dependencies and launch procedures.
+
+**Engineering documentation**  
+Architecture, setup instructions and technical decisions documented alongside the implementation.
+
+---
+
+# Beyond Robotics Software
+
+My background also includes practical work with industrial automation and electromechanical systems:
+
+`Siemens PLC` · `TIA Portal` · `HMI` · `PROFINET` · `Industrial Sensors` · `Electrical Systems` · `Pneumatics`
+
+This provides additional experience working with **real machines, industrial hardware, sensors, actuators and automation systems**.
+
+---
+
+# GitHub Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AREIVAN/AREIVAN/main/dist/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AREIVAN/AREIVAN/main/dist/github-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/AREIVAN/AREIVAN/main/dist/github-snake.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AREIVAN&show_icons=true&hide_border=true" alt="GitHub Stats">
+</p>
 
 ---
 
 <p align="center">
-  Thanks for visiting my profile.
+  <b>Robotics · Autonomous Systems · ROS 2 · Embedded Systems · Computer Vision</b>
+</p>
+
+<p align="center">
+  Building robotic systems from simulation to embedded hardware.
 </p>
