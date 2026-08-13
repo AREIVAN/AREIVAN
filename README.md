@@ -100,7 +100,11 @@ I am interested in collaborating on robotics, autonomous systems, embedded contr
 
 <p align="center">
   Building robotic systems from simulation to hardware.
-</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AREIVAN&show_icons=true&hide_border=true" alt="GitHub Stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AREIVAN/AREIVAN/main/dist/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AREIVAN/AREIVAN/main/dist/github-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/AREIVAN/AREIVAN/main/dist/github-snake.svg">
+  </picture>
 </p>
+
